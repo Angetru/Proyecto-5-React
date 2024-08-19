@@ -31,6 +31,7 @@
 ### 2. Desarrollo de proyecto
  Luego de revisar las API disponibles en la Web, además de buscar información interesante en los medios, se seleccionó una API pública relacionada a las Olimpiadas de Paris 2024.
  Se incluye como referencia información sobre la API para mayor detalle: [Link API](https://github.com/kevle1/paris-2024-olympic-api?tab=readme-ov-file)
+ 
  En resumen esta API permite visualizar las medallas ganadas por los paises participantes, y la idea es disponibilizar la información a los usuarios, que puedan interactuar con distintos botones para ordenar la información, además que permita a los usuarios buscar 
  por país, considerando que se debe usar la codificación indicada por el Comité de las Olimpiadas,  NOCs ("National Olympic Committees"), se incluye link en esta sección a modo de referencia e importante mencionar que esta misma información fue incluida en un 
  componente, por experiencia de usuario, para facilitar la búsqueda de los códigos de los países.
@@ -40,7 +41,8 @@
 
  ![img estructuraa proyecto](./images/EstructuraProyecto.png)
 
- Se ejecutan los códigos y parámetros necesarios tanto de Vite, React, React-Dom, Tailwind CSS, entre otros, además de aplicar los ajustes necesarios en las instalaciones. Posterior a esto se crea la carpeta y archivos necesarios con el fin de desplegar la 
+ Se ejecutan los códigos y parámetros necesarios tanto de Vite, React, React-Dom, Tailwind CSS, entre otros, además de aplicar los ajustes necesarios en las instalaciones. 
+ Posterior a esto se crea la carpeta y archivos necesarios con el fin de desplegar la 
  estructura propuesta en Visual Studio Code. Se incluyen algunos recursos adicionales como imagenes de apoyo para los componentes de Home.jsx y MedalList.jsx.
 
  En el componente "Home.jsx" se crea una función Home donde se incluye una imagen de base, además de contenido de bienvenida a los usuarios, incluyendo un botón de acción para que los usuarios sean redireccionados hacia otra página. A continuación se muestra tanto 
@@ -90,8 +92,8 @@
  Para la preparación del proyecto de Aplicaciones Web con React, se analizaron diferentes variables con el fin de hacer un proyecto interesante, luego de varias iteraciones, diferentes ideas y ejecuciones de pruebas, se llegó a la API de referencia a las Olimpiadas 
  que permitía desplegar la data, desde el medallero, esto permitiendo crear varios botones que llama a los usuarios a que juegen con distintas opciones, así como también permitiendo una búsqueda por paises, en base a códigos publicados por el Comité de las 
  Olimpiadas. Esta API es simple en su universo de datos, por este motivo se habilitaron varias secciones de botones y búsqueda, además de reseteo de las mismas.
- Se realizaron varias pruebas en los códigos de los componentes, debido a que inicialmente no se obtenía la data, después de varios analisis, entendiendo la estructura de la data y de la API, asi como revisiones y reescritura de los códigos, se llegó a renderizar la 
- data y hacer funcionar el proyecto finalmente.
+ Se realizaron varias pruebas en los códigos de los componentes, debido a que inicialmente no se obtenía la data, después de varios analisis, entendiendo la estructura de la data y de la API, asi como revisiones y reescritura de los códigos, se llegó a renderizar 
+ la data y hacer funcionar el proyecto finalmente.
 
   ****
 *¡Gracias!*
