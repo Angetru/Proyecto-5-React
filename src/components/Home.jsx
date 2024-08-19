@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 function Home() {
   return (
     <div className="flex flex-col items-center justify-center h-screen">
-      <img src="./public/images/Olympclosure.jpg" alt="Olympics 2024" className="absolute inset-0 w-full h-full object-cover opacity-65" />
+      <img src="https://res.cloudinary.com/dtzpmi6qs/image/upload/v1724109136/Olympclosure_qii5hq.webp" alt="Olympics 2024" className="absolute inset-0 w-full h-full object-cover opacity-65" />
       <div className="relative z-10 text-center text-white">
         <h1 className="text-4xl font-bold mb-4 bg-black bg-opacity-75 px-2 py-1 rounded-lg">¡Bienvenidos a los Resultados de las Olimpiadas Paris 2024!</h1>
         <p className="text-lg mb-4 bg-black bg-opacity-75 px-2 py-1 rounded-lg inline-block">
