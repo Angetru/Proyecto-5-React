@@ -85,15 +85,23 @@
 
   ![img App_jsx](./images/App_jsx.png)
 
+  Finalmente al renderizar los componentes restantes, se despliega lo siguiente:
 
+  ![img MedalList_jsx1](./images/MedalList_Localhost_1.png)
+  
+  ![img MedalList_jsx2](./images/MedalList_Localhost_2.png)
+    
+  ![img MedalList_jsx3](./images/MedalList_Localhost_3.png)
+  
   ****
 
   ### 3. Conclusiones
- Para la preparación del proyecto de Aplicaciones Web con React, se analizaron diferentes variables con el fin de hacer un proyecto interesante, luego de varias iteraciones, diferentes ideas y ejecuciones de pruebas, se llegó a la API de referencia a las Olimpiadas 
- que permitía desplegar la data, desde el medallero, esto permitiendo crear varios botones que llama a los usuarios a que juegen con distintas opciones, así como también permitiendo una búsqueda por paises, en base a códigos publicados por el Comité de las 
- Olimpiadas. Esta API es simple en su universo de datos, por este motivo se habilitaron varias secciones de botones y búsqueda, además de reseteo de las mismas.
- Se realizaron varias pruebas en los códigos de los componentes, debido a que inicialmente no se obtenía la data, después de varios analisis, entendiendo la estructura de la data y de la API, asi como revisiones y reescritura de los códigos, se llegó a renderizar 
- la data y hacer funcionar el proyecto finalmente.
+ Para la preparación del proyecto de "Aplicaciones Web con React", se analizaron diferentes variables con el fin de hacer un proyecto interesante, que luego de varias iteraciones y diferentes ideas con ejecuciones de pruebas, se llegó a la API de referencia a las 
+ Olimpiadas que permitía desplegar la data desde el medallero, y con la habilitación de varios botones, llama a los usuarios a que juegen con distintas opciones, así como también permitiendo una búsqueda por paises, en base a códigos publicados por el Comité de las 
+ Olimpiadas. 
+ Esta API es simple en su universo de datos, por este motivo se habilitaron varias secciones de botones y búsqueda, además de reseteo de las mismas con el fin de hacerlo interactivo.
+ Se realizaron varias pruebas en los códigos de los componentes, debido a que inicialmente no se obtenía la data desde la API, pero después de varios analisis, entendiendo la estructura de la data y de la API, asi como revisiones y reescritura de los códigos, se 
+ llegó a renderizar la data y hacer funcionar el proyecto finalmente.
 
   ****
 *¡Gracias!*
