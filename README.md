@@ -65,7 +65,7 @@
   En esta sección del código se habilitan funciones, tales como:
   - Permite moverse desde el final de la página hasta la sección de botones.
   - Actualiza un estado del componente cuando el usuario ingresa información para una búsqueda, en base a 3 caracteres que el usuario ingresará para buscar un país específico.
-  - 
+
   ![img MedalList_jsx part 3](./images/MedalList_jsx3.png)
 
   Luego se define una función que permite hacer un reset de la data filtrada, volviendo a desplegar los datos ordenados.
@@ -86,11 +86,13 @@
   ![img App_jsx](./images/App_jsx.png)
 
   Finalmente al renderizar los componentes restantes, se despliega lo siguiente:
-
+  - Parte 1:
   ![img MedalList_jsx1](./images/MedalList_Localhost_1.png)
-  
+
+  - Parte 2:  
   ![img MedalList_jsx2](./images/MedalList_Localhost_2.png)
-    
+
+  - Parte 3:    
   ![img MedalList_jsx3](./images/MedalList_Localhost_3.png)
   
   ****
