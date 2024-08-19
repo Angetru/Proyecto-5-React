@@ -107,7 +107,7 @@ function MedalList() {
         <div className="bg-black text-white min-h-screen flex flex-col items-center justify-center">
             <div className="container mx-auto mb-20 bg-black">
                 <h1 className="text-2xl font-bold mb-4 text-center">Lista de Medallas Olímpicas</h1>
-                <img src="./public/images/Olympics.jpg" alt="Olympics 2024" className="w-full h-auto rounded mb-4 opacity-75" />
+                <img src="https://res.cloudinary.com/dtzpmi6qs/image/upload/v1724109118/Olympics_bmwmeh.jpg" alt="Olympics 2024" className="w-full h-auto rounded mb-4 opacity-75" />
                 <div id="filter-buttons" className="flex justify-start mb-4">
                     <button onClick={sortByRank} className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded m-2">Ordenar Ranking</button>
                     <button onClick={sortByCountry} className="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded m-2">Ordenar País</button>
