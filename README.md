@@ -1,6 +1,6 @@
 # Proyecto-5-React
 Proyecto 5 Aplicación Web con React
-![Banner](./images/bannerppal.png)
+![Banner](./images/Banner_ppal.avif)
 # Módulo 5 - Proyecto 5
 ## ¡Bienvenidos al proyecto "Aplicación Web con React"!
 
