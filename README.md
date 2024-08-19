@@ -79,7 +79,7 @@ Proyecto 5 Aplicación Web con React
 
   Se agrega un componente específico para el manejo de Error Boundary:
 
-  ![img ErrorBoundary_jsx](./images/Error_Boundary_jsx.png)
+  ![img ErrorBoundary_jsx](./images/ErrorBoundary_jsx.png)
 
   Por último em App.jsx, se realizan las rutas hacia los otros componentes:
 
