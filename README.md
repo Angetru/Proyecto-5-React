@@ -85,14 +85,18 @@
 
   ![img App_jsx](./images/App_jsx.png)
 
-  Finalmente al renderizar los componentes restantes, se despliega lo siguiente:
+  Finalmente al renderizar los componentes restantes, se despliega lo siguiente por secciones, debido a la data mostrada:
+  
   - Parte 1:
+    
   ![img MedalList_jsx1](./images/MedalList_Localhost_1.png)
 
-  - Parte 2:  
+  - Parte 2:
+    
   ![img MedalList_jsx2](./images/MedalList_Localhost_2.png)
 
-  - Parte 3:    
+  - Parte 3:
+      
   ![img MedalList_jsx3](./images/MedalList_Localhost_3.png)
   
   ****
